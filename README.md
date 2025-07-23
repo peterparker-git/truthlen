@@ -1,12 +1,11 @@
-# React + Vite
+TruthLens is a Chrome Extension that lets users verify Twitter accounts and posts for authenticity in real-time. With a clean UI, elegant toast notifications, and no external data collection, it empowers users to detect fake accounts or misleading content directly from the browser.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built With:
 
-Currently, two official plugins are available:
+>React + Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>Tailwind CSS
 
-## Expanding the ESLint configuration
+>react-hot-toast
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+>Chrome Extension (Manifest v3)
