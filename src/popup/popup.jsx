@@ -140,7 +140,7 @@ function Popup() {
     <div className="w-80 min-h-[200px] p-4 rounded-2xl shadow-xl text-[#2E364F]" style={{ backgroundColor: '#F5F0E5' }}>
       <h1 className="text-2xl font-bold text-center mb-2 tracking-wide">TruthLens</h1>
       <p className="text-sm text-center mb-4 text-[#6F6F6F]">
-       Real-time check for fake profile and post
+       Real-time check for fake profile and post !
       </p>
 
       <button
